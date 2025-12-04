@@ -33,9 +33,7 @@ Como executar
 1️⃣ Abra o **PgAdmin**  
 2️⃣ Crie um banco de dados (botão direito > Create > Database)  
 3️⃣ Vá em **Query Tool**
-
-Print da Tela do PGAdmin
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/56528d31-3ef8-404c-8739-772add0abb3b" />
-
 4️⃣ Copie e cole os scripts na ordem
 5️⃣ Execute clicando no botão ▶  
+Print da Tela do PGAdmin
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/56528d31-3ef8-404c-8739-772add0abb3b" />
